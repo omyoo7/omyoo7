@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Onkar Dubey!
 - 👀 I love coming up with solutions to complex problems. 
 - 🌱 I’m currently learning Machine Learning Technology & curious to know each and evrything about it.
-- :office: I have worked as a Software Developer and Data Enginner with multiple programming langauges. Led the team in a effective manner and deliverd several project.
+- :office: I have worked as a Software Developer and Data Enginner with multiple programming langauges, Databases & cloud pltaform. Led the team in a effective manner and deliverd several project.
 - 📫 How to reach me Email: onkar.dubey@outlook.com
 
 
